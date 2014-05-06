@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+}
+
+.fist {
+	position: fixed;
+	pointer-events: none;
+}
